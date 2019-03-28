@@ -1,3 +1,9 @@
 1 申请git账户
 2 把你的账户给"流浪",让他把你加入这个git项目里
 3 给你发送的邀请加入邮件,点击一下,表示同意加入
+4 安装 Git-2.17.0-64-bit.exe
+5 安装 TortoiseGit-2.6.0.0-64bit.msi ,会让你填入git账户等基本信息
+6 安装 TortoiseGit-LanguagePack-2.6.0.0-64bit-zh_CN.msi 这个汉化包,但是个人感觉并没怎么汉化
+7 确保visual studio里的工具--选项--Source Control/源代码管理--当前源代码管理插件的下拉框选的是"Git"
+8 视图--团队资源管理器--找一个小房子的图标--点击设置--全局设置--填写自己的姓名,邮件,本地的一个目录作为本地仓储
+远程的地方填入:https://github.com/trainingsixgroupsbrother/WinformPermissionSystem.git 这才是vs与github服务器上关联的项目
