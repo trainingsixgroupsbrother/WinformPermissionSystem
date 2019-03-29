@@ -8,6 +8,7 @@ namespace SixGroup
 {
     static class Program
     {
+        //测试提交
         /// <summary>
         /// 应用程序的主入口点。
         /// </summary>
